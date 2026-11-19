@@ -1,6 +1,13 @@
 {
-  "appName": "Web App",
-  "packageName": "com.example.webapp",
+  "appName": "Cheapblox",
+  "packageName": "com.web2apk.cheapbloxdp38",
   "orientation": "auto",
-  "permissions": ["internet", "network_state"]
+  "permissions": [
+    "notification",
+    "camera",
+    "video",
+    "audio",
+    "file_manager",
+    "wake_lock"
+  ]
 }
